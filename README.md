@@ -31,7 +31,8 @@ CMD => php artisan serve
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/Laravel-MultiLanguages/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-pagination/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-pagination/main/Screenshots/Output-02.png)
 
 
 ## 🔗 www.codehafeez.com
